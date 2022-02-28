@@ -5,7 +5,6 @@
 
 package dam_ed04_actividad;
 
-
 public class CCuenta {
 
 
@@ -17,7 +16,7 @@ public class CCuenta {
     public String getCuenta() {
         return cuenta;
     }
-
+int s=0;
     public void setCuenta(String cuenta) {
         this.cuenta = cuenta;
     }
