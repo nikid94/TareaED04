@@ -16,7 +16,6 @@ public class CCuenta {
     public String getCuenta() {
         return cuenta;
     }
-int s=0;
     public void setCuenta(String cuenta) {
         this.cuenta = cuenta;
     }
